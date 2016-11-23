@@ -15,7 +15,10 @@ CycleUShare is an open bicycle sharing system. It is designed to allow registere
 
 24Cleaners is a private project to construct a system that will allow members to drop their laundry off at kiosks, and pick it up once it has been washed, no more than 24 hours later. Its development involves C#, PHP, and RFID transactions.
 
+## [jump.wtf](https://jump.wtf)
 
-## [Jump.wtf](https://jump.wtf)
+jump.wtf is a website I made in my spare time to learn how to use AWS, and I have gradually added more and more features for the sake of learning. It now has an API allowing other applications (such as the C++ example included) to use the service, and is accessible through Tor should privacy be a concern. I'd love to answer any questions about the service, as I've invested quite a bit of time into it.
 
-Jump.wtf is a website I made in my spare time to learn how to use AWS, and I have gradually added more and more features for the sake of learning. It now has an API allowing other applications (such as the C++ example included) to use the service, and is accessible through Tor should privacy be a concern. I'd love to answer any questions about the service, as I've invested quite a bit of time into it.
+## [todo.jump.wtf](https://todo.jump.wtf)
+
+todo.jump.wtf is a website I made to learn how to use Laravel. It's very basic in functionality, and I want to emphasize that it did not take a lot of work - all of the heavy lifting like authentication, database management, and validation is done by Laravel. This was fun!
